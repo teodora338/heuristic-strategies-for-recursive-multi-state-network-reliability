@@ -1,7 +1,6 @@
 # Algorithm Design project - Recursive multi-state network reliability
 
-For more details, check the student paper:
-https://github.com/teodora338/recursive-multi-state-network-reliability/blob/master/Heuristic_Strategies_for_Accelerating_Recursive_Reliability_Evaluation_of_Multistate_Networks_Using_Minimal_Path_Vectors.pdf
+For more details, check the student paper on the following [link] (https://github.com/teodora338/recursive-multi-state-network-reliability/blob/master/Heuristic_Strategies_for_Accelerating_Recursive_Reliability_Evaluation_of_Multistate_Networks_Using_Minimal_Path_Vectors.pdf).
 
 ## Representation of a Weighted Graph through a Vector
 Let a weighted graph be given as shown in the figure, representing a flow network.
