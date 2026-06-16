@@ -1,4 +1,4 @@
-# Algorithm Design Project - Heuristic Strategies for Accelerating Recursive Reliability Evaluation of Multi-state Networks Using Minimal Path Vectors
+# Heuristic Strategies for Accelerating Recursive Reliability Evaluation of Multi-state Networks Using Minimal Path Vectors
 
 For more details, check the student paper on the following [link](https://github.com/teodora338/recursive-multi-state-network-reliability/blob/master/Heuristic_Strategies_for_Accelerating_Recursive_Reliability_Evaluation_of_Multistate_Networks_Using_Minimal_Path_Vectors.pdf).
 
